@@ -1,10 +1,6 @@
-pandas
 numpy
-sk-learn
+pandas
+scikit-learn
 matplotlib
 seaborn
 streamlit
-warnings
-pickle
-
-	
