@@ -1,0 +1,10 @@
+pandas
+numpy
+sk-learn
+matplotlib
+seaborn
+streamlit
+warnings
+pickle
+
+	
